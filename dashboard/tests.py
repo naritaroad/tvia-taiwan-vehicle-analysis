@@ -8,7 +8,7 @@ class PublicPageTests(TestCase):
         self.assertContains(response, "台灣車輛資訊分析網")
         self.assertNotContains(response, "C111")
         self.assertNotContains(response, "C110")
-        self.assertContains(response, "Lrniey666")
+        self.assertContains(response, "naritaroad")
 
     def test_ranking_empty_ok(self):
         response = self.client.get("/rankings/")

@@ -219,7 +219,7 @@ original-data/          2023 作業原檔，已被 .gitignore
 
 ## 授權
 
-程式與文件：[MIT](LICENSE) © 2023 [Lrniey666](https://github.com/Lrniey666)、[ejiru4u3](https://github.com/ejiru4u3)、[zhangkjim](https://github.com/zhangkjim)。
+程式與文件：[MIT](LICENSE) © 2023 [naritaroad](https://github.com/naritaroad)、[ejiru4u3](https://github.com/ejiru4u3)、[zhangkjim](https://github.com/zhangkjim)。
 
 圖表數字來自交通部 [TDX](https://tdx.transportdata.tw/) 開放資料，授權依該平台條款。首頁插畫僅供重現當年網站外觀。
 

@@ -25,7 +25,7 @@
 
 | GitHub | |
 | --- | --- |
-| [Lrniey666](https://github.com/Lrniey666) | 組員 |
+| [naritaroad](https://github.com/naritaroad) | 組員 |
 | [ejiru4u3](https://github.com/ejiru4u3) | 組員 |
 | [zhangkjim](https://github.com/zhangkjim) | 組員 |
 | 課程 | 高科大 NKUST Python 資料分析實務 |

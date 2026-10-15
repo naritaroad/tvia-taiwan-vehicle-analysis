@@ -17,7 +17,7 @@
 | 對外說明 | 繁中在 `README.md`；英文在 `docs/README.en.md`，兩邊一起改 |
 | 日期 | `YYYY-MM-DD`，台北時間 |
 | 變更紀錄 | `CHANGELOG.md` 的 `## [Unreleased]`（Keep a Changelog 2.0.0） |
-| 組員具名 | 用 GitHub 帳號：`Lrniey666`、`ejiru4u3`、`zhangkjim` |
+| 組員具名 | 用 GitHub 帳號：`naritaroad`、`ejiru4u3`、`zhangkjim` |
 | 換行 | LF（`.gitattributes`） |
 
 ## 請不要

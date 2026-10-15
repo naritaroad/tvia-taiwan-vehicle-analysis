@@ -17,7 +17,7 @@ This is an archived 2023 coursework site. Fixes to docs, empty states, and chart
 | Public docs | Traditional Chinese in `README.md`; English in `docs/README.en.md`. Change both. |
 | Dates | `YYYY-MM-DD`, Taipei time |
 | Changelog | `CHANGELOG.md` → `## [Unreleased]` (Keep a Changelog 2.0.0) |
-| Credits | GitHub handles only: `Lrniey666`, `ejiru4u3`, `zhangkjim` |
+| Credits | GitHub handles only: `naritaroad`, `ejiru4u3`, `zhangkjim` |
 | Line endings | LF (`.gitattributes`) |
 
 ## Please do not

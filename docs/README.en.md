@@ -221,7 +221,7 @@ This is archived coursework. Doc and empty-state fixes are welcome; do not push 
 
 ## Licence
 
-Code and documentation: [MIT](../LICENSE) © 2023 [Lrniey666](https://github.com/Lrniey666), [ejiru4u3](https://github.com/ejiru4u3), [zhangkjim](https://github.com/zhangkjim).
+Code and documentation: [MIT](../LICENSE) © 2023 [naritaroad](https://github.com/naritaroad), [ejiru4u3](https://github.com/ejiru4u3), [zhangkjim](https://github.com/zhangkjim).
 
 Chart figures come from MOTC [TDX](https://tdx.transportdata.tw/) open data and remain under that platform’s terms. Cover artwork is only here to reproduce the 2023 site.
 
